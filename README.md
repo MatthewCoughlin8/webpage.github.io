@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>  Pricing donating to Breast Cancer </title>
+<H1>  Pricing donating to Breast Cancer </H1>
 <head>
 </body> 
 <Body> <strong> Notes </strong> </Body >
