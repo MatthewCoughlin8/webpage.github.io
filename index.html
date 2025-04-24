@@ -2,7 +2,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>HTML basics</title>
     </head>
 
 <H1>  Pricing donating to Breast Cancer </H1>
