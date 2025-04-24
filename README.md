@@ -5,5 +5,5 @@
 <head>
 </body> 
 <Body> <strong> Notes </strong> </Body >
-<ul> <li> Any donation amount is allowed </li> <li> Memberships will be renewed monthly </li> </ul>   
+<ul> <li> Any donation amount is allowed </li> <li> Memberships will be renewed monthly </li> <li> </li> </ul>   
 <body> </body>
