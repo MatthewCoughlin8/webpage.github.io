@@ -19,5 +19,15 @@
         <td> 1 pin </td>
         <td> $2 </td>
     </tr>
+       <tr> 
+    <td> renewing membership  </td>
+        <td> Shirt and pin </td>
+        <td> $10 </td>
+    </tr>
+    <tr>
+        <td> breast cancer pen </td>
+        <td> 1 pen </td>
+        <td> $1 </td>
+    </tr>
 </table>
 </html>
