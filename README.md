@@ -14,5 +14,10 @@
         <th> included </th>
         <th> price </th>
     </tr>
+  <tr> 
+        <td> Breast cancer pin  </td>
+        <td> 1 pin </td>
+        <td> $2 </td>
+    </tr>
 </table>
 </html>
